@@ -26,6 +26,6 @@ Bir testin özgüllüğünü hesaplamak için aşağıdaki denklem kullanılır:
 ![image](https://github.com/tr-brain-com/dss/assets/118043046/ada1eb25-478c-451f-8827-144ca80cd1a7)
 
 
-Yazı serisinin tamamını okumak için [tıklayınız](https://www.brain-tr.com/classification-problemlerinde-guvenilirligin-tespiti-sensitivity-specificity/https://www.brain-tr.com/pca-principal-component-analysis-kullanarak-boyut-azaltma-nasil-gerceklestirilir/).
+Yazı serisinin tamamını okumak için [tıklayınız](https://www.brain-tr.com/classification-problemlerinde-guvenilirligin-tespiti-sensitivity-specificity/).
 
 Notebook dosyası için [tıklayınız](https://github.com/tr-brain-com/dss/blob/main/diabetes_sensitivity_specificity/app.ipynb).
